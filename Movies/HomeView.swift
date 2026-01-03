@@ -26,7 +26,7 @@ struct HomeView: View {
                                     startPoint: .top,
                                     endPoint: .bottom)
                             }
-                            .padding(1.1)
+                            .padding(1)
                     } placeholder: {
                         ProgressView()
                     }
